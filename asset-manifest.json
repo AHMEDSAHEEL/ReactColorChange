@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactColorChange/static/css/main.18c94397.css",
+    "main.js": "/ReactColorChange/static/js/main.7e99c887.js",
+    "static/js/453.100b39b7.chunk.js": "/ReactColorChange/static/js/453.100b39b7.chunk.js",
+    "index.html": "/ReactColorChange/index.html",
+    "main.18c94397.css.map": "/ReactColorChange/static/css/main.18c94397.css.map",
+    "main.7e99c887.js.map": "/ReactColorChange/static/js/main.7e99c887.js.map",
+    "453.100b39b7.chunk.js.map": "/ReactColorChange/static/js/453.100b39b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c94397.css",
+    "static/js/main.7e99c887.js"
+  ]
+}
